@@ -1,4 +1,5 @@
 # Django settings for rest_example project.
+#yes, this is a test
 import os
 
 DEBUG = True
